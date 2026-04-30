@@ -38,3 +38,6 @@ d' = 2.64cm
 <img src="https://latex.codecogs.com/svg.image?\text{distance}=2.64\times2+2.5=7.78\text{cm}" style="vertical-align:middle" />
 
 Since the handle is crooked the distance between the two points of applied load is 7.78cm, which is within comfortable range(6-10cm) of a human grip.
+
+Update:
+
