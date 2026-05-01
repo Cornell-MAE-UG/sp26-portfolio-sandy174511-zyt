@@ -17,7 +17,7 @@ Calculations:
 
 <img src="https://latex.codecogs.com/svg.image?\sum&space;\vec{M}&space;=&space;\vec{L}_1(-\text{load}_{\text{out}})&plus;\vec{L}_2(\text{load}_{\text{in}})" style="vertical-align:middle" />
 
-<img src="https://latex.codecogs.com/svg.image?\frac{output force}{given load}=\frac{222.18}{40}=5.55" title="\frac{output load}{given load}=\frac{222.18}{40}" /></p>
+<img src="https://latex.codecogs.com/svg.image?\frac{output force}{given load}=\frac{222.18}{40}=5.55" title="\frac{output load}{given load}=\frac{222.18}{40}" style="vertical-align:middle"/>
 
 Thus the ratio of the distances must be at least 5.55 too. In the design the ratio would be 6.
 
