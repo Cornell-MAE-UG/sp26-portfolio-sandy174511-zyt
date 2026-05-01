@@ -39,5 +39,11 @@ d' = 2.64cm
 
 Since the handle is crooked the distance between the two points of applied load is 7.78cm, which is within comfortable range(6-10cm) of a human grip.
 
-Update:
+Now, assuming the handle of the nutcracker is not rigid, but are beams which bend under pressure from the actuator and the nut.
+
+The location of maximum elastic deflection in the handles would be the longer end of the handle. Since the 
+
+For the vertical deflection of the handle to be below 2% of its length and is the most mass-efficient possible, the cross section should be a W beam, with I value of , and cross section area of  due to calculations shown below:
+
+Thus, the nutcracker would look like this:
 
