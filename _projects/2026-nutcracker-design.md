@@ -60,6 +60,7 @@ According to the function y(x), the deflection at point B would be smaller than 
 
 ![image of upper handle with points ABC and angles]({{ "/assets/images/nutcrackerhandle.jpg" | relative_url }}){: .inline-image-l}
 
+
 For the vertical deflection of the handle to be below 2% of its length:
 
 <img src="https://latex.codecogs.com/svg.image?\delta_{max}=0.02\times18\text{ cm}=0.36\text{ cm}=0.0036\text{ m}" />
