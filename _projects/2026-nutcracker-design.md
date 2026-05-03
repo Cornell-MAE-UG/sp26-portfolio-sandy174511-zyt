@@ -58,7 +58,7 @@ Solving gives constants (approx):
 
 According to the function y(x), the deflection at point B would be smaller than the deflection at point C.
 
-[image of upper handle with points ABC and angles]
+![image of upper handle with points ABC and angles]({{ "/assets/images/nutcrackerhandle.jpg" | relative_url }}){: .inline-image-l}
 
 For the vertical deflection of the handle to be below 2% of its length:
 
@@ -96,14 +96,3 @@ Cross-sectional area:
 
 <img src="https://latex.codecogs.com/svg.image?A=bh=50\text{ mm}^2" />
 
-Thus, the nutcracker would look like this:
-
-[image of the nutcracker and its cross section]
-
-
-
-Thus, the nutcracker would look like this:
-
-[image of the nutcracker and its cross section]
-
-<img src="https://latex.codecogs.com/svg.image?A=b*h=50\text{mm}^2" style="vertical-align:middle" />
