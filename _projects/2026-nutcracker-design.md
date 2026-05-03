@@ -72,8 +72,6 @@ Thus:
 
 <img src="https://latex.codecogs.com/svg.image?EI=\frac{1.12\times10^5}{0.0036}=3.11\times10^7\ \mathrm{N\cdot mm^2}" />
 
-<img src="https://latex.codecogs.com/svg.image?EI=\frac{1.12\times10^5}{0.0036}=3.11\times10^7\text{ N\cdot mm}^2" />
-
 With:
 
 <img src="https://latex.codecogs.com/svg.image?E=200\text{ GPa}=2\times10^5\text{ N/mm}^2" />
