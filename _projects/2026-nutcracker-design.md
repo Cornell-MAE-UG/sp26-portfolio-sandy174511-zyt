@@ -1,3 +1,4 @@
+---
 layout: project
 title: Nutcracker design
 description: Class project with Graphs
