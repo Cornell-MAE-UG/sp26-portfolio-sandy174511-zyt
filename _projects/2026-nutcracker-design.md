@@ -39,14 +39,13 @@ d' = 2.64cm
 
 Since the handle is crooked the distance between the two points of applied load is 7.78cm, which is within comfortable range(6-10cm) of a human grip.
 
-Now, assuming the handle of the nutcracker is not rigid, but are beams which bend under pressure from the actuator and the nut.
+Now, assuming the handle of the nutcracker is not rigid, but are beams which bend under point pressure from the actuator and the nut.
 
-The location of maximum elastic deflection in the handles would be the longer end of the handle. Since
+The location of maximum elastic deflection in the handles would be the longer end of the handle. Since the the distance of deflection at the joint and where the nutcracker is in contact with the nut is 0, 
 
-<img src="https://latex.codecogs.com/svg.image?v=\begin{cases}222.18\text{kg}&space;\times&space;9.81\text{kg/N}&space;\times&space;\cos(15^\circ)&space;=2105.3\text{N}&space;&\text{if&space;}0<x<3\\40\text{kg}&space;\times&space;9.81\text{kg/N}&space;\times&space;\cos(5^\circ)&space;=390.9\text{N}&\text{if&space;}3\leq&space;x\leq&space;18\end{cases}" style="vertical-align:middle" />
+<img src="https://latex.codecogs.com/svg.image?v=\begin{cases}222.18\text{kg}&space;\times&space;9.81\text{kg/N}&space;\times&space;\cos(20^\circ)&space;=2048.14\text{N}&space;&\text{if&space;}0<x<3\\40\text{kg}&space;\times&space;9.81\text{kg/N}&space;=392.4\text{N}&\text{if&space;}3\leq&space;x\leq&space;18\end{cases}" style="vertical-align:middle" />
 
-
-<img src="https://latex.codecogs.com/svg.image?\sum&space;\vec{M}&space;=0:&space;M(x)=\begin{cases}&space;&\text{if&space;}0<x<3\\&space;&\text{if&space;}3\leq&space;x\leq&space;18\end{cases}" style="vertical-align:middle" />
+<img src="https://latex.codecogs.com/svg.image?\sum&space;\vec{M}&space;=0:&space;M(x)=\begin{cases}2048.14x&space;&\text{if&space;}0<x<3\\7063.2-392.4x&space;&\text{if&space;}3\leq&space;x\leq&space;18\end{cases}" style="vertical-align:middle" />
 
 <img src="https://latex.codecogs.com/svg.image?EIy=\iint&space;M&space;dx&space;dx=\begin{cases}&space;&space;&\text{if&space;}0<x<3\\&space;&\text{if&space;}3\leq&space;x\leq&space;18\end{cases}" style="vertical-align:middle" />
 
@@ -54,9 +53,17 @@ The location of maximum elastic deflection in the handles would be the longer en
 
 According to the function y(x), the deflection at point B would be smaller than the deflection at point C.
 
-image of upper handle with points ABC and angles
+[image of upper handle with points ABC and angles]
 
-For the vertical deflection of the handle to be below 2% of its length and is the most mass-efficient possible, the cross section should be a W beam, with I value of , and cross section area of  due to calculations shown below:
+For the vertical deflection of the handle to be below 2% of its length and is the most mass-efficient possible, the material used should be structural steel，which has a density of 7860kg/m^2 and modulud of elasticity of 200GPa, and the cross section should be a W beam, with I value of , and cross section area of  due to calculations shown below:
+
+<img src="https://latex.codecogs.com/svg.image?\text{I}=" style="vertical-align:middle" />
+
+<img src="https://latex.codecogs.com/svg.image? y(x)=18\text{cm}\times&space;&0.2%&space;&=  =\frac{1}{EI}  " style="vertical-align:middle" />
+
+<img src="https://latex.codecogs.com/svg.image?=  =\frac{1}{EI}  " style="vertical-align:middle" />
 
 Thus, the nutcracker would look like this:
+
+[image of the nutcracker and its cross section]
 
